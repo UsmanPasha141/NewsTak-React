@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# A News Website that shows the Latest News, the News is getting from the NewApi..
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
